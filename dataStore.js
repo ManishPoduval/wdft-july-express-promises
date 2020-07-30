@@ -1,5 +1,6 @@
 // Imagine this data to be stored in MongoDB
 
+ 
 module.exports = [
     {
         name: 'Javier',
